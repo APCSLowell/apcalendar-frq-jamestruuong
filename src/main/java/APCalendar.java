@@ -59,3 +59,4 @@ public static int numberOfLeapYears(int year1, int year2) {
     int returnDay = (startDay + nthDay - 1) % 7;
     return returnDay;
 }
+}
